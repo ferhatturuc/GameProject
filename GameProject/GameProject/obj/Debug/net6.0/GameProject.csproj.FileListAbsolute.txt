@@ -1,0 +1,15 @@
+D:\4862348\repos\GameProject\GameProject\bin\Debug\net6.0\GameProject.exe
+D:\4862348\repos\GameProject\GameProject\bin\Debug\net6.0\GameProject.deps.json
+D:\4862348\repos\GameProject\GameProject\bin\Debug\net6.0\GameProject.runtimeconfig.json
+D:\4862348\repos\GameProject\GameProject\bin\Debug\net6.0\GameProject.dll
+D:\4862348\repos\GameProject\GameProject\bin\Debug\net6.0\GameProject.pdb
+D:\4862348\repos\GameProject\GameProject\obj\Debug\net6.0\GameProject.csproj.AssemblyReference.cache
+D:\4862348\repos\GameProject\GameProject\obj\Debug\net6.0\GameProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\4862348\repos\GameProject\GameProject\obj\Debug\net6.0\GameProject.AssemblyInfoInputs.cache
+D:\4862348\repos\GameProject\GameProject\obj\Debug\net6.0\GameProject.AssemblyInfo.cs
+D:\4862348\repos\GameProject\GameProject\obj\Debug\net6.0\GameProject.csproj.CoreCompileInputs.cache
+D:\4862348\repos\GameProject\GameProject\obj\Debug\net6.0\GameProject.dll
+D:\4862348\repos\GameProject\GameProject\obj\Debug\net6.0\refint\GameProject.dll
+D:\4862348\repos\GameProject\GameProject\obj\Debug\net6.0\GameProject.pdb
+D:\4862348\repos\GameProject\GameProject\obj\Debug\net6.0\GameProject.genruntimeconfig.cache
+D:\4862348\repos\GameProject\GameProject\obj\Debug\net6.0\ref\GameProject.dll
